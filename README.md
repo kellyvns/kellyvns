@@ -8,6 +8,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kellyvns&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff69b4&hide=issues" height="150" alt="GitHub Stats"/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellyvns&layout=compact&theme=radical&title_color=ff69b4" height="150" alt="Most Used Languages"/>
 </div>
 
@@ -25,12 +26,11 @@
 ---
 
 <div>
-  <a href="https://www.instagram.com/kellyvnss?igsh=MXR6Z3k5dGRseXhyNA%3D%3D&utm_source=qr" target="_blank">
+  <a href="https://www.instagram.com/kellyvnss" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  
   <a href="https://discord.gg/jj8SfZBR" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
-
-
